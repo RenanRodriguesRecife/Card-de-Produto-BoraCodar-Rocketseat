@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "window.zoomLevel": -1,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+}

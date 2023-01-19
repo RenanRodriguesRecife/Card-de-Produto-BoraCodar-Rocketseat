@@ -1,0 +1,30 @@
+:root{
+    --bg-color: #D9CDF7;
+    --text-color: #271A45;
+}
+
+body{
+    background-color: var(--bg-color);
+}
+
+body * {
+    color: var(--text-color);
+    font-family: 'Lato',sans-serif;
+}
+
+h1{
+    font-family: 'Crimson Pro',serif;
+}
+
+#btn-close,
+#btn-360{
+    display: none;
+}
+
+#app {
+    display:flex;
+}
+
+h1{
+    font-family: "Crimson Pro", serif
+}
