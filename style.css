@@ -41,6 +41,16 @@ body * {
     border: 0;
 }
 
+html.animated button#btn-360,
+html.animated img#static{
+    display: none;
+}
+
+html.animated button#btn-close,
+html.animated img#animated{
+    display: initial;
+}
+
 #product-image > img {
     width: 449px;
     height: 222px;
